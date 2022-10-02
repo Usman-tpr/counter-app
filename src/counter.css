@@ -1,0 +1,39 @@
+.counter{
+    background-color: black;
+    width: 400px;
+   margin-top: 150px;
+   margin-left: 400px;
+    color: white;
+    height: 300px;
+    border-radius: 20px;
+}
+.container{
+    justify-content: center;
+    text-align: center;
+    
+}
+.count{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   margin-left: 150px;
+  border: 2px solid white;
+  width: 5rem;
+  height: 5rem;
+  font-size: 3rem;
+  border-radius: 50%;
+}
+button{
+   
+    background-color: rgb(208, 253, 5);
+    color:black;
+    justify-content: center;
+  text-align: center;
+  width: 90px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.buttons{
+    padding-top: 10px;
+}
